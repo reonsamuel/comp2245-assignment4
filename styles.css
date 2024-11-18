@@ -38,8 +38,20 @@ button:hover {
     background-color: #0056b3;
 }
 
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
 #result {
     margin-top: 20px;
-    font-size: 1em;
-    color: #555;
+    background: #f8f9fa;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 0.9em;
+    color: #333;
 }
